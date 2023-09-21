@@ -1,5 +1,1 @@
-# fastAPI-CRUD
-# linear-regression-stock-prediction
-# linear-regression-stock-prediction
-# mean-reversion
-# mean-reversion
+Tracking the price vs VWAP trend to identify potential far from VWAP trading opportunities. 
